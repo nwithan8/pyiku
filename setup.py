@@ -1,5 +1,5 @@
 import setuptools
-import pyku._info as package_info
+import pyiku._info as package_info
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
